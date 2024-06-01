@@ -1,4 +1,4 @@
-# Salifort-Motors-Capstone-Project
+# Salifort Motors Capstone Project
 
 ## Google Advanced Data Analytics Capstone Project
 
