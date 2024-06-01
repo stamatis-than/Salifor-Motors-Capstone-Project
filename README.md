@@ -1,6 +1,6 @@
 # Salifort-Motors-Capstone-Project
 
-### Google Advanced Data Analytics Capstone Project
+## Google Advanced Data Analytics Capstone Project
 
 ### Provide data-driven suggestions for HR
 
