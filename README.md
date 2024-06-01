@@ -13,11 +13,11 @@ Next, the leadership team asks you to analyze the survey data and come up with i
 
 ### Deliverables
 Analyze the key factors driving employee turnover, build an effective model, and share recommendations for next steps with the leadership team.
-Model evaluation
-Data visualizations
-Ethical considerations
-Resources
-One-page summary of this project
+- Model evaluation
+- Data visualizations
+- Ethical considerations
+- Resources
+- One-page summary of this project
 
 ### HR dataset 
 
